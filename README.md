@@ -1,2 +1,2 @@
 # Forest_Fire_detection_by_DL
-An intial part of code is submitted 
+week 1 : An intial part of code is submitted 
