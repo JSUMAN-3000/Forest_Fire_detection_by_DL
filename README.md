@@ -1,2 +1,3 @@
 # Forest_Fire_detection_by_DL
-week 1 : An intial part of code is submitted 
+week 4 : An AI & ML code is submitted
+A four week intesive training program with fundamental in Aritificila Intelligence and Green Technology.
